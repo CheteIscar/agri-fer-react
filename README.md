@@ -1,8 +1,7 @@
-# gym-typescript
+# Instrucciones
 
-Build a Complete Typescript React Fitness Application for Beginners
+El video es este
 
-Video: https://www.youtube.com/watch?v=I2NNxr3WPDo
+https://www.youtube.com/watch?v=I2NNxr3WPDo
 
-For all related questions and discussions about this project, check out the discord:
-https://discord.gg/2FfPeEk2mX
+La app esta hecha con React
